@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Face Recognition</string>
+    <string name="add_person">Add Person</string>
+    <string name="remove_person">Rmv Person</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="nip">NIP</string>
+</resources>
